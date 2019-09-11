@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #555;
+}
+
+.product-img{
+    border: .05rem solid #e5e5e5;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.store-footer {
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+    margin-top: 15px;
+}
